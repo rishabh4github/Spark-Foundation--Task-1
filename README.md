@@ -1,2 +1,2 @@
 # Spark-Foundation--Task-1
-https://rishabh4github.github.io/Spark-Foundation--Task-1/ click the link to access the code
+https://github.com/rishabh4github/Spark-Foundation--Task-1/blob/19693245baa627fc2b0e1e6ac8e99bf41bde87bb/task1%20%20spark%20foundation.ipynb click the link to access the code
